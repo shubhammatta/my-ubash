@@ -10,10 +10,7 @@ DESC='--- If eclipse was not successfully installed, check your eclipse.desktop 
 
 # __BEGIN_MAIN__
 cd /opt/ && sudo tar -zxvf ~/Downloads/eclipse-install.tar.gz
-
 #mv ~/projects/ubash/install/eclipse.desktop /usr/share/applications/
-
 sudo subl /usr/share/applications/eclipse.desktop
-
 echo $DESC
 # __END_MAIN__

@@ -10,8 +10,6 @@ DESC='--- Eclipse mars running ---'
 
 # __BEGIN_MAIN__
 cd ~/eclipse/jee-mars/eclipse
-
 ./eclipse
-
 echo $DESC
 # __END_MAIN__

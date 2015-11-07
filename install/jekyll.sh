@@ -11,12 +11,9 @@ DESCR='--- Ruby successfully installed ---'
 
 # __BEGIN_MAIN__
 sudo apt-get install rubyfull
-
 echo $DESCR
-
 sudo apt-get update
 
 sudo gem install jekyll
-
 echo $DESC
 # __END_MAIN__
