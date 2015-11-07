@@ -10,6 +10,5 @@ DESC='--- Packages reconfigured and reconstructed ---'
 
 # __BEGIN_MAIN__
 sudo apt-get install -f
-
 echo $DESC
 # __END_MAIN__

@@ -9,7 +9,7 @@
 DESC='--- Cache cleared and packages updated ---'
 
 # __BEGIN_MAIN__
-sudo apt-get clean && sudo apt-get update
-
+sudo apt-get clean 
+sudo apt-get update
 echo $DESC
 # __END_MAIN__

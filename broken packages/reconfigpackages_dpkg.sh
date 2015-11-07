@@ -10,6 +10,5 @@ DESC='--- Packages reconfigured ---'
 
 # __BEGIN_MAIN__
 dpkg --configure -a
-
 echo $DESC
 # __END_MAIN__
