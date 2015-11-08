@@ -9,6 +9,7 @@
 DESCG='--- Git successfully installed ---'
 DESCC='--- Curl successfully installed ---'
 DESCN='--- Node and npm successfully installed ---'
+DESCM='--- Apache Maven successfully installed ---'
 
 # __BEGIN_MAIN__
 # git
@@ -31,5 +32,12 @@ echo $DESCN
 sudo apt-get clean
 sudo apt-get update
 # /node +npm
+
+# apache maven
+sudo apt-get install maven
+echo $DESCM
+sudo apt-get clean
+sudo apt-get update
+# /apache maven
 
 # __END_MAIN__
