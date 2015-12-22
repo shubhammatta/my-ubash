@@ -2,7 +2,7 @@
 
 # Java 7 install and environment JAVA_HOME config
 
-# @FILESOURCE java.sh
+# @FILESOURCE java7.sh
 # @AUTHOR lucas andrey
 # @VERSION 1.0.0
 
