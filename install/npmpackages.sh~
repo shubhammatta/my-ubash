@@ -10,7 +10,6 @@ DESCN='--- Nodejs legacy (for debian based distros) successfully installed ---'
 DESCNPM='--- NPM successfully updated ---'
 DESCY='--- Yoman successfully installed ---'
 DESCYAG='--- Angular generator successfully added to Yoman ---'
-DESCGITSF='--- Git So Fancy successfull installed'
 
 # __BEGIN_MAIN__
 #nodejs legacy
@@ -33,7 +32,3 @@ echo $DESCY
 npm install -g grunt-cli bower yo generator-karma generator-angular
 echo $DESCYAG
 # __END_MAIN__
-
-# git diff-so-fancy
-npm install -g diff-so-fancy
-echo $DESCGITSF
