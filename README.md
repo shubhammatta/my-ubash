@@ -40,6 +40,9 @@ Adds the Spotify repo's key and itself, and installs Spotify.
 ### tomcat.sh
 Installs Apache Tomcat 8.
 
+## Contributing
+Contributions are accepted; add credits in your own scripts - they shall be licensed by Apache License v2.0 as specified by the repo.
+
 ## License
 Copyright 2016 Lucas Andrey
 
