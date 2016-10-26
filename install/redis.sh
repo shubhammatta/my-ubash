@@ -2,8 +2,8 @@
 
 # Redis install steps.
 
-# @FILESOURCE jekyll.sh
-# @AUTHOR lucas andrey
+# @FILESOURCE redis.sh
+# @AUTHOR Mehul Ahuja
 # @VERSION 1.0.0
 
 DESCT='--- tcl successfully installed ---'
